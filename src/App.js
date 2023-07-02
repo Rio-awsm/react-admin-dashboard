@@ -43,7 +43,7 @@ const App = () => {
 
           <div>
             <Routes>
-            {/* Dashboard */}
+              {/* Dashboard */}
               <Route path="/" element="ECommerce" />
               <Route path="/ecommerce" element="Ecommerce" />
 
