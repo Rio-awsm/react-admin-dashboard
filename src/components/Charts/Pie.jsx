@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Button = () => {
+const Pie = () => {
   return (
     <div>
-      Button
+      Pie
     </div>
   )
 }
 
-export default Button
+export default Pie

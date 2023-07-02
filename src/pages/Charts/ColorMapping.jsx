@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Button = () => {
+const ColorMapping = () => {
   return (
     <div>
-      Button
+      
     </div>
   )
 }
 
-export default Button
+export default ColorMapping

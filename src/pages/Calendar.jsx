@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Button = () => {
+const Calendar = () => {
   return (
     <div>
-      Button
+      
     </div>
   )
 }
 
-export default Button
+export default Calendar

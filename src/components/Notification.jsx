@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Button = () => {
+const Notification = () => {
   return (
     <div>
-      Button
+      
     </div>
   )
 }
 
-export default Button
+export default Notification
