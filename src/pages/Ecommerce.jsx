@@ -110,7 +110,7 @@ const Ecommerce = () => {
               </div>
 
               <div>
-                <div className="my-10">
+                <div className="my-12">
                   <Button 
                     color="white"
                     bgcolor="blue"
